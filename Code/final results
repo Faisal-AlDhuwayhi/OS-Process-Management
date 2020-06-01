@@ -1,0 +1,1201 @@
+Process: 
+Process ID -> 1
+When it was loaded into the ready queue -> 0
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 83
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 37
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 330
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 29
+When it was loaded into the ready queue -> 0
+Number of times it was in the CPU -> 3
+Total time spent in the CPU -> 116
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 38
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 1
+Time it terminated or was killed -> 352
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 81
+When it was loaded into the ready queue -> 400
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 56
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 39
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 548
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 72
+When it was loaded into the ready queue -> 0
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 89
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 30
+Number of times it was waiting for memory -> 288
+Number of times its preempted -> 0
+Time it terminated or was killed -> 956
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 20
+When it was loaded into the ready queue -> 400
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 69
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 53
+Number of times it was waiting for memory -> 388
+Number of times its preempted -> 0
+Time it terminated or was killed -> 957
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 15
+When it was loaded into the ready queue -> 0
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 59
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 43
+Number of times it was waiting for memory -> 766
+Number of times its preempted -> 1
+Time it terminated or was killed -> 958
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 100
+When it was loaded into the ready queue -> 0
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 18
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 43
+Number of times it was waiting for memory -> 891
+Number of times its preempted -> 0
+Time it terminated or was killed -> 959
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 62
+When it was loaded into the ready queue -> 0
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 67
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 23
+Number of times it was waiting for memory -> 517
+Number of times its preempted -> 0
+Time it terminated or was killed -> 960
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 22
+When it was loaded into the ready queue -> 0
+Number of times it was in the CPU -> 3
+Total time spent in the CPU -> 40
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 56
+Number of times it was waiting for memory -> 813
+Number of times its preempted -> 2
+Time it terminated or was killed -> 961
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 87
+When it was loaded into the ready queue -> 600
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 77
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 48
+Number of times it was waiting for memory -> 198
+Number of times its preempted -> 0
+Time it terminated or was killed -> 962
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 19
+When it was loaded into the ready queue -> 600
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 87
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 31
+Number of times it was waiting for memory -> 128
+Number of times its preempted -> 0
+Time it terminated or was killed -> 963
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 58
+When it was loaded into the ready queue -> 0
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 123
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 95
+Number of times it was waiting for memory -> 9
+Number of times its preempted -> 0
+Time it terminated or was killed -> 964
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 31
+When it was loaded into the ready queue -> 1000
+Number of times it was in the CPU -> 3
+Total time spent in the CPU -> 156
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 46
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 1
+Time it terminated or was killed -> 1428
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 74
+When it was loaded into the ready queue -> 1000
+Number of times it was in the CPU -> 3
+Total time spent in the CPU -> 145
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 104
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 1490
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 56
+When it was loaded into the ready queue -> 1600
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 115
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 60
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 1835
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 38
+When it was loaded into the ready queue -> 1600
+Number of times it was in the CPU -> 3
+Total time spent in the CPU -> 250
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 79
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 2229
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 61
+When it was loaded into the ready queue -> 1000
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 96
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 59
+Number of times it was waiting for memory -> 598
+Number of times its preempted -> 1
+Time it terminated or was killed -> 2230
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 96
+When it was loaded into the ready queue -> 2000
+Number of times it was in the CPU -> 5
+Total time spent in the CPU -> 217
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 79
+Number of times it was waiting for memory -> 60
+Number of times its preempted -> 2
+Time it terminated or was killed -> 2505
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 60
+When it was loaded into the ready queue -> 2400
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 78
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 59
+Number of times it was waiting for memory -> 84
+Number of times its preempted -> 0
+Time it terminated or was killed -> 2727
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 54
+When it was loaded into the ready queue -> 2600
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 70
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 56
+Number of times it was waiting for memory -> 2
+Number of times its preempted -> 0
+Time it terminated or was killed -> 2728
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 9
+When it was loaded into the ready queue -> 2400
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 51
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 37
+Number of times it was waiting for memory -> 241
+Number of times its preempted -> 0
+Time it terminated or was killed -> 2729
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 57
+When it was loaded into the ready queue -> 1600
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 56
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 49
+Number of times it was waiting for memory -> 1025
+Number of times its preempted -> 0
+Time it terminated or was killed -> 2730
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 42
+When it was loaded into the ready queue -> 2000
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 37
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 55
+Number of times it was waiting for memory -> 603
+Number of times its preempted -> 0
+Time it terminated or was killed -> 2731
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 25
+When it was loaded into the ready queue -> 1000
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 100
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 78
+Number of times it was waiting for memory -> 1530
+Number of times its preempted -> 0
+Time it terminated or was killed -> 2732
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 6
+When it was loaded into the ready queue -> 1600
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 119
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 68
+Number of times it was waiting for memory -> 709
+Number of times its preempted -> 0
+Time it terminated or was killed -> 2733
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 92
+When it was loaded into the ready queue -> 2800
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 95
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 25
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 2989
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 21
+When it was loaded into the ready queue -> 1000
+Number of times it was in the CPU -> 5
+Total time spent in the CPU -> 218
+Number of times it performed an IO -> 3
+Total time spent in performing IO -> 121
+Number of times it was waiting for memory -> 1454
+Number of times its preempted -> 1
+Time it terminated or was killed -> 3285
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 66
+When it was loaded into the ready queue -> 2800
+Number of times it was in the CPU -> 3
+Total time spent in the CPU -> 168
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 50
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 1
+Time it terminated or was killed -> 3535
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 53
+When it was loaded into the ready queue -> 2800
+Number of times it was in the CPU -> 4
+Total time spent in the CPU -> 220
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 57
+Number of times it was waiting for memory -> 223
+Number of times its preempted -> 1
+Time it terminated or was killed -> 3616
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 10
+When it was loaded into the ready queue -> 3400
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 35
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 40
+Number of times it was waiting for memory -> 117
+Number of times its preempted -> 0
+Time it terminated or was killed -> 3617
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 7
+When it was loaded into the ready queue -> 3000
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 125
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 75
+Number of times it was waiting for memory -> 504
+Number of times its preempted -> 0
+Time it terminated or was killed -> 3734
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 95
+When it was loaded into the ready queue -> 2800
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 15
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 21
+Number of times it was waiting for memory -> 899
+Number of times its preempted -> 0
+Time it terminated or was killed -> 3735
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 78
+When it was loaded into the ready queue -> 2800
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 83
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 102
+Number of times it was waiting for memory -> 734
+Number of times its preempted -> 0
+Time it terminated or was killed -> 3736
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 90
+When it was loaded into the ready queue -> 3800
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 113
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 33
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 4057
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 50
+When it was loaded into the ready queue -> 3800
+Number of times it was in the CPU -> 3
+Total time spent in the CPU -> 156
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 74
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 4129
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 59
+When it was loaded into the ready queue -> 4200
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 92
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 40
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 4415
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 77
+When it was loaded into the ready queue -> 4200
+Number of times it was in the CPU -> 3
+Total time spent in the CPU -> 105
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 33
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 1
+Time it terminated or was killed -> 4446
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 69
+When it was loaded into the ready queue -> 3800
+Number of times it was in the CPU -> 4
+Total time spent in the CPU -> 188
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 26
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 2
+Time it terminated or was killed -> 4538
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 40
+When it was loaded into the ready queue -> 4200
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 18
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 22
+Number of times it was waiting for memory -> 299
+Number of times its preempted -> 0
+Time it terminated or was killed -> 4539
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 2
+When it was loaded into the ready queue -> 3800
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 54
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 20
+Number of times it was waiting for memory -> 666
+Number of times its preempted -> 0
+Time it terminated or was killed -> 4540
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 48
+When it was loaded into the ready queue -> 4600
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 92
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 43
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 4879
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 89
+When it was loaded into the ready queue -> 4600
+Number of times it was in the CPU -> 4
+Total time spent in the CPU -> 128
+Number of times it performed an IO -> 3
+Total time spent in performing IO -> 140
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 4922
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 51
+When it was loaded into the ready queue -> 5000
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 94
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 43
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 5193
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 3
+When it was loaded into the ready queue -> 5000
+Number of times it was in the CPU -> 5
+Total time spent in the CPU -> 103
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 26
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 3
+Time it terminated or was killed -> 5352
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 41
+When it was loaded into the ready queue -> 5200
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 79
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 71
+Number of times it was waiting for memory -> 2
+Number of times its preempted -> 0
+Time it terminated or was killed -> 5353
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 80
+When it was loaded into the ready queue -> 4600
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 31
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 53
+Number of times it was waiting for memory -> 631
+Number of times its preempted -> 0
+Time it terminated or was killed -> 5354
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 45
+When it was loaded into the ready queue -> 4600
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 22
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 58
+Number of times it was waiting for memory -> 659
+Number of times its preempted -> 0
+Time it terminated or was killed -> 5355
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 28
+When it was loaded into the ready queue -> 4600
+Number of times it was in the CPU -> 4
+Total time spent in the CPU -> 104
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 80
+Number of times it was waiting for memory -> 290
+Number of times its preempted -> 2
+Time it terminated or was killed -> 5356
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 99
+When it was loaded into the ready queue -> 5000
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 59
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 31
+Number of times it was waiting for memory -> 196
+Number of times its preempted -> 0
+Time it terminated or was killed -> 5357
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 79
+When it was loaded into the ready queue -> 5400
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 187
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 58
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 5904
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 76
+When it was loaded into the ready queue -> 5400
+Number of times it was in the CPU -> 4
+Total time spent in the CPU -> 258
+Number of times it performed an IO -> 3
+Total time spent in performing IO -> 142
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 5982
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 65
+When it was loaded into the ready queue -> 5400
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 43
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 30
+Number of times it was waiting for memory -> 510
+Number of times its preempted -> 0
+Time it terminated or was killed -> 5983
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 33
+When it was loaded into the ready queue -> 5400
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 84
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 29
+Number of times it was waiting for memory -> 360
+Number of times its preempted -> 0
+Time it terminated or was killed -> 5984
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 86
+When it was loaded into the ready queue -> 6000
+Number of times it was in the CPU -> 3
+Total time spent in the CPU -> 213
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 102
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 6536
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 5
+When it was loaded into the ready queue -> 6000
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 68
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 34
+Number of times it was waiting for memory -> 355
+Number of times its preempted -> 0
+Time it terminated or was killed -> 6537
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 73
+When it was loaded into the ready queue -> 6000
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 69
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 34
+Number of times it was waiting for memory -> 286
+Number of times its preempted -> 0
+Time it terminated or was killed -> 6538
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 85
+When it was loaded into the ready queue -> 6000
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 62
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 47
+Number of times it was waiting for memory -> 413
+Number of times its preempted -> 0
+Time it terminated or was killed -> 6539
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 91
+When it was loaded into the ready queue -> 6000
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 16
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 53
+Number of times it was waiting for memory -> 471
+Number of times its preempted -> 0
+Time it terminated or was killed -> 6540
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 4
+When it was loaded into the ready queue -> 6600
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 93
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 44
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 6765
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 75
+When it was loaded into the ready queue -> 6600
+Number of times it was in the CPU -> 3
+Total time spent in the CPU -> 83
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 58
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 1
+Time it terminated or was killed -> 6795
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 94
+When it was loaded into the ready queue -> 6600
+Number of times it was in the CPU -> 3
+Total time spent in the CPU -> 165
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 26
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 1
+Time it terminated or was killed -> 7155
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 13
+When it was loaded into the ready queue -> 6800
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 42
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 23
+Number of times it was waiting for memory -> 291
+Number of times its preempted -> 0
+Time it terminated or was killed -> 7156
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 82
+When it was loaded into the ready queue -> 6600
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 15
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 26
+Number of times it was waiting for memory -> 505
+Number of times its preempted -> 0
+Time it terminated or was killed -> 7157
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 11
+When it was loaded into the ready queue -> 6800
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 56
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 46
+Number of times it was waiting for memory -> 213
+Number of times its preempted -> 0
+Time it terminated or was killed -> 7158
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 26
+When it was loaded into the ready queue -> 6800
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 66
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 53
+Number of times it was waiting for memory -> 140
+Number of times its preempted -> 0
+Time it terminated or was killed -> 7159
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 47
+When it was loaded into the ready queue -> 7200
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 121
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 33
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 7565
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 68
+When it was loaded into the ready queue -> 7600
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 108
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 52
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 7787
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 32
+When it was loaded into the ready queue -> 7800
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 82
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 60
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 7972
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 23
+When it was loaded into the ready queue -> 7200
+Number of times it was in the CPU -> 3
+Total time spent in the CPU -> 108
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 26
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 1
+Time it terminated or was killed -> 8048
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 64
+When it was loaded into the ready queue -> 8200
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 156
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 22
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 8379
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 55
+When it was loaded into the ready queue -> 7200
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 99
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 60
+Number of times it was waiting for memory -> 147
+Number of times its preempted -> 0
+Time it terminated or was killed -> 8380
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 43
+When it was loaded into the ready queue -> 7600
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 92
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 44
+Number of times it was waiting for memory -> 509
+Number of times its preempted -> 1
+Time it terminated or was killed -> 8381
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 44
+When it was loaded into the ready queue -> 8000
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 50
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 56
+Number of times it was waiting for memory -> 253
+Number of times its preempted -> 1
+Time it terminated or was killed -> 8382
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 36
+When it was loaded into the ready queue -> 7200
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 129
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 89
+Number of times it was waiting for memory -> 926
+Number of times its preempted -> 0
+Time it terminated or was killed -> 8383
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 16
+When it was loaded into the ready queue -> 8400
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 79
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 35
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 8558
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 46
+When it was loaded into the ready queue -> 8600
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 172
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 48
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 8909
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 49
+When it was loaded into the ready queue -> 7200
+Number of times it was in the CPU -> 3
+Total time spent in the CPU -> 224
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 70
+Number of times it was waiting for memory -> 1006
+Number of times its preempted -> 0
+Time it terminated or was killed -> 9122
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 63
+When it was loaded into the ready queue -> 7200
+Number of times it was in the CPU -> 6
+Total time spent in the CPU -> 242
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 80
+Number of times it was waiting for memory -> 724
+Number of times its preempted -> 3
+Time it terminated or was killed -> 9272
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 35
+When it was loaded into the ready queue -> 9000
+Number of times it was in the CPU -> 4
+Total time spent in the CPU -> 298
+Number of times it performed an IO -> 3
+Total time spent in performing IO -> 133
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 9595
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 8
+When it was loaded into the ready queue -> 9200
+Number of times it was in the CPU -> 3
+Total time spent in the CPU -> 179
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 51
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 1
+Time it terminated or was killed -> 9685
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 18
+When it was loaded into the ready queue -> 9800
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 78
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 43
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 9970
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 14
+When it was loaded into the ready queue -> 9600
+Number of times it was in the CPU -> 4
+Total time spent in the CPU -> 270
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 81
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 1
+Time it terminated or was killed -> 10113
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 70
+When it was loaded into the ready queue -> 10000
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 77
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 37
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 10145
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 88
+When it was loaded into the ready queue -> 8400
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 86
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 53
+Number of times it was waiting for memory -> 1448
+Number of times its preempted -> 0
+Time it terminated or was killed -> 10146
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 67
+When it was loaded into the ready queue -> 8400
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 38
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 36
+Number of times it was waiting for memory -> 1657
+Number of times its preempted -> 0
+Time it terminated or was killed -> 10147
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 39
+When it was loaded into the ready queue -> 8600
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 89
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 30
+Number of times it was waiting for memory -> 1298
+Number of times its preempted -> 0
+Time it terminated or was killed -> 10148
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 97
+When it was loaded into the ready queue -> 9400
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 47
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 39
+Number of times it was waiting for memory -> 663
+Number of times its preempted -> 0
+Time it terminated or was killed -> 10149
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 30
+When it was loaded into the ready queue -> 10200
+Number of times it was in the CPU -> 3
+Total time spent in the CPU -> 133
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 89
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 10586
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 37
+When it was loaded into the ready queue -> 10200
+Number of times it was in the CPU -> 3
+Total time spent in the CPU -> 130
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 55
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 1
+Time it terminated or was killed -> 10613
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 98
+When it was loaded into the ready queue -> 10200
+Number of times it was in the CPU -> 3
+Total time spent in the CPU -> 143
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 30
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 1
+Time it terminated or was killed -> 10681
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 27
+When it was loaded into the ready queue -> 10600
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 111
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 21
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 10815
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 71
+When it was loaded into the ready queue -> 11000
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 76
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 54
+Number of times it was waiting for memory -> 1
+Number of times its preempted -> 0
+Time it terminated or was killed -> 11141
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 24
+When it was loaded into the ready queue -> 10200
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 68
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 29
+Number of times it was waiting for memory -> 781
+Number of times its preempted -> 0
+Time it terminated or was killed -> 11142
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 84
+When it was loaded into the ready queue -> 10800
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 110
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 93
+Number of times it was waiting for memory -> 79
+Number of times its preempted -> 0
+Time it terminated or was killed -> 11143
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 34
+When it was loaded into the ready queue -> 10800
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 43
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 59
+Number of times it was waiting for memory -> 226
+Number of times its preempted -> 0
+Time it terminated or was killed -> 11144
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 52
+When it was loaded into the ready queue -> 11200
+Number of times it was in the CPU -> 4
+Total time spent in the CPU -> 81
+Number of times it performed an IO -> 3
+Total time spent in performing IO -> 119
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 11438
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 17
+When it was loaded into the ready queue -> 11200
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 12
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 48
+Number of times it was waiting for memory -> 179
+Number of times its preempted -> 0
+Time it terminated or was killed -> 11439
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+Process: 
+Process ID -> 83
+When it was loaded into the ready queue -> 11200
+Number of times it was in the CPU -> 3
+Total time spent in the CPU -> 227
+Number of times it performed an IO -> 2
+Total time spent in performing IO -> 76
+Number of times it was waiting for memory -> 67
+Number of times its preempted -> 0
+Time it terminated or was killed -> 11612
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 12
+When it was loaded into the ready queue -> 11600
+Number of times it was in the CPU -> 2
+Total time spent in the CPU -> 76
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 56
+Number of times it was waiting for memory -> 0
+Number of times its preempted -> 0
+Time it terminated or was killed -> 11779
+Its final state: Killed or Terminated -> TERMINATED
+-------------------------------------------------------------
+Process: 
+Process ID -> 93
+When it was loaded into the ready queue -> 11600
+Number of times it was in the CPU -> 1
+Total time spent in the CPU -> 32
+Number of times it performed an IO -> 1
+Total time spent in performing IO -> 39
+Number of times it was waiting for memory -> 96
+Number of times its preempted -> 0
+Time it terminated or was killed -> 11780
+Its final state: Killed or Terminated -> KILLED
+-------------------------------------------------------------
+CPU Utilization -> 87.91274085391733 %
