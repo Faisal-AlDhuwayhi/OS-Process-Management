@@ -1,12 +1,12 @@
 # Opereating System - Process Management
-# 1 Objective
+## 1 Objective
 This project simulates the behavior of the multiprogramming operating system and use CPU scheduler, and CPU Execution. At the end of the simulation, it's expected to output some statistics regarding the behavior of the system.
 
-# 2 Specification
+## 2 Specification
 You can find the hardware specification, the multiprogramming OS features and the jobs requirements and more in [this link](/Specification/Specification.pdf) .
 
 
-# 3 Output Of The Project
+## 3 Output Of The Project
 Output from the simulation:
 A text file containing statistics about all processes and their final status TERMINATED or KILLED. Statistics about a process should contain:
 1.	Process ID
